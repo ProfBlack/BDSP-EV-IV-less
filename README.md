@@ -17,4 +17,5 @@ A script for removing EVs and IVs from trainer teams as well as EV Yields from P
  	(Optional) If you added mods then all of the files contained within them will be included in the output. The process of removing EVs and IVs only affects two files however. These are:
 	1. romfs\Data\StreamingAssets\AssetAssistant\Dpr\masterdatas
 	2. romfs\Data\StreamingAssets\AssetAssistant\Pml\personal_masterdatas
-	You can create a small EV/IV-less patch for your mod with just these two files so long as you maintain the folder hierarchy.
+	
+ 	You can create a small EV/IV-less patch for your mod with just these two files so long as you maintain the folder hierarchy.
